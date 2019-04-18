@@ -1,0 +1,31 @@
+Inhalt Fachbericht
+
+wie und was -> nur technische Ebene 
+-> Wieso sieht es so aus wie es aussieht? Aus Problemlösung resultierende Produkt darlegen
+-> die Tauglichkeit der vorgeschlagenen Lösung überprüfbar machen
+-> erläutern, warum die vorgestellte lösung aus unserer Sicht optimal ist
+-> Entwicklungspotential aufzeigen
+
+->top down approach
+
+
+Titelblatt
+Abstract -> Grobe einleitung auf Managerebene, Worum geht es
+Inhaltsverzeichnis
+Einleitung -> detaillierter, Wie haben wir es gemacht
+Hauptteil 
+	Grundlagen (Gesamtkonzept -> Know How für das Projekt)
+	GUI: Aufbau und Funktionsweise der Software
+		Betriebssystem/Lizenzierung (Java erläutern) 
+		Strukturierung (Klassendiagramm) -> MVC nur kurz erläutern
+		Aufbau GUI (wieso...)
+		Implementierung der Berechnungen
+		
+	Elektro-Teil: Mathe
+	Tests, Diskussion der Ergebnisse
+Schluss -> was ist dabei herausgekommen?
+Quellen
+Anhang
+
+
+
