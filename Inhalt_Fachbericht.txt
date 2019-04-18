@@ -20,7 +20,6 @@ Hauptteil
 		Strukturierung (Klassendiagramm) -> MVC nur kurz erläutern
 		Aufbau GUI (wieso...)
 		Implementierung der Berechnungen
-		
 	Elektro-Teil: Mathe
 	Tests, Diskussion der Ergebnisse
 Schluss -> was ist dabei herausgekommen?
