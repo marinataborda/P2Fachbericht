@@ -1,30 +1,48 @@
 Inhalt Fachbericht
 
 wie und was -> nur technische Ebene 
--> Wieso sieht es so aus wie es aussieht? Aus Problemlösung resultierende Produkt darlegen
--> die Tauglichkeit der vorgeschlagenen Lösung überprüfbar machen
--> erläutern, warum die vorgestellte lösung aus unserer Sicht optimal ist
+-> Wieso sieht es so aus wie es aussieht? Aus Problemloesung resultierende Produkt darlegen
+-> die Tauglichkeit der vorgeschlagenen Loesung überpruefbar machen
+-> erlaeutern, warum die vorgestellte Loesung aus unserer Sicht optimal ist
 -> Entwicklungspotential aufzeigen
 
 ->top down approach
 
 
 Titelblatt
-Abstract -> Grobe einleitung auf Managerebene, Worum geht es
+Abstract -> Grobe Einleitung auf Managerebene, Worum geht es
 Inhaltsverzeichnis
-Einleitung -> detaillierter, Wie haben wir es gemacht
+Einleitung -> detaillierter, Wie haben wir es gemacht haben
 Hauptteil 
-	Grundlagen (Gesamtkonzept -> Know How für das Projekt)
+	Grundlagen (Gesamtkonzept -> Know How fuer das Projekt)
+		Einleitung EMI Filter	
+		Aufbau EMI Filter	
+		Stoerungsarten	
+		Definition Einfuegungsverluste ÇInsertion lossÈ
+		Parasitaere Parameter
+
 	GUI: Aufbau und Funktionsweise der Software
-		Betriebssystem/Lizenzierung (Java erläutern) 
-		Strukturierung (Klassendiagramm) -> MVC nur kurz erläutern
+		Betriebssystem/Lizenzierung (Java erlaeutern) 
+		Strukturierung (Klassendiagramm) -> MVC nur kurz erlaeutern
 		Aufbau GUI (wieso...)
 		Implementierung der Berechnungen
-	Elektro-Teil: Mathe
+		
+	Elektro-Teil:
+		Vorgehensweise Berechnung Einfuegungsverluste
+		S- Parameter
+		Vereinfachungen der Schaltungen
+		Realisierung in Matlab
+		Implementierung der Berechnungen in JAVA (evtl. im Software Teil)
+		
 	Tests, Diskussion der Ergebnisse
+		
+
 Schluss -> was ist dabei herausgekommen?
 Quellen
 Anhang
+	Matlab Code
+	Software Code? 
+	
 
 
 
